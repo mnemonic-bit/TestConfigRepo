@@ -1,5 +1,4 @@
 ConnectionStrings:
-  DefaultConnection: some DB connection string
   SpecialConnection: some other DB connection string
 CustomConfig:
   StringValue: some text here
