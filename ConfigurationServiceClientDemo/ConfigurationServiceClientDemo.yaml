@@ -2,7 +2,7 @@ ConnectionStrings:
   SpecialConnection: some other DB connection string
 CustomConfig:
   StringValue: some text here
-  IntValue: 123
+  IntValue: 128
   GuidValue: 3f241a24-e57d-46d3-89e0-1f7724883ce2
   CustomStructure:
     Text: ipse lorem
