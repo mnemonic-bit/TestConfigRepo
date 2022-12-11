@@ -5,3 +5,7 @@ CustomConfig:
   StringValue: some text here
   IntValue: 123
   GuidValue: 3f241a24-e57d-46d3-89e0-1f7724883ce2
+  CustomStructure:
+    Text: ipse lorem
+Logging:
+  Filter: Microsoft.EntityFramework
