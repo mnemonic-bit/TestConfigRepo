@@ -8,3 +8,4 @@ CustomConfig:
     Text: ipse lorem
 Logging:
   Filter: Microsoft.EntityFramework
+  Level: Debug
