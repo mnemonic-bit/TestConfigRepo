@@ -1,0 +1,2 @@
+ConnectionStrings:
+  DefaultConnection: the default connection string must not be wiped out
