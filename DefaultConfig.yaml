@@ -1,3 +1,5 @@
 ConnectionStrings:
   DefaultConnection: default DB connection string
   SpecialConnection: default config for special DB connection string
+Logging:
+  Level: Information
