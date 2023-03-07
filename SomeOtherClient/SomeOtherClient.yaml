@@ -1,3 +1,2 @@
 ConnectionStrings:
   DefaultConnection: the default connection string must not be wiped out
-  PrivateConnection: this will not be shared among other apps
