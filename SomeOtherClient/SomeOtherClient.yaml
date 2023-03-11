@@ -1,3 +1,3 @@
 ConnectionStrings:
   DefaultConnection: the default connection string must not be wiped out
-  PrivateConnection: this will not be shared among other apps
+  PrivateConnection: <EncryptedSection>LtVStC8+KITjnN4M9qeAgLt1ZSxRP5lWFydff6L+dH0WFFHmrU1TRD7Z3uIkiNJEMGo1q9D7jXhlfwcb6eqkKHL80CuzEBEGwxJJJPW53tGGokQ/GdguDhrOhFAa3mS8ERKYfGMnY8IhP1HrIiD1Gw==</EncryptedSection>
