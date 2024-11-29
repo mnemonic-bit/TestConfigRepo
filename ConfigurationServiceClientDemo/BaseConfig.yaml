@@ -1,4 +1,8 @@
-Global:
-  Value: This is a global value
-Logging:
-  Level: Wanring
+Name: BaseConfig
+BaseConfig: ../DefaultConfig
+Format: YAML
+Configuration: |
+  Global:
+    Value: This is a global value
+  Logging:
+    Level: Wanring

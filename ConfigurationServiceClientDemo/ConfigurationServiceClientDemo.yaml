@@ -1,11 +1,15 @@
-ConnectionStrings:
-  SpecialConnection: some other DB connection string
-CustomConfig:
-  StringValue: some text here
-  IntValue: 222
-  GuidValue: 3f241a24-e57d-46d3-89e0-1f7724883ce2
-  CustomStructure:
-    Text: ipse lorem
-Logging:
-  Filter: Microsoft.EntityFramework
-  Level: Debug
+Name: ConfigurationServiceClientDemo
+BaseConfig: ../BaseConfig
+Format: YAML
+Configuration: |
+  ConnectionStrings:
+    SpecialConnection: some other DB connection string
+  CustomConfig:
+    StringValue: some text here
+    IntValue: 222
+    GuidValue: 3f241a24-e57d-46d3-89e0-1f7724883ce2
+    CustomStructure:
+      Text: ipse lorem
+  Logging:
+    Filter: Microsoft.EntityFramework
+    Level: Debug

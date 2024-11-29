@@ -1,3 +1,7 @@
-ConnectionStrings:
-  DefaultConnection: the default connection string must not be wiped out
-  PrivateConnection: <EncryptedSection>4ui6WlwseIQNA1pD1xIsGU1mSRHVTmTiPW2diMUrhMKZEnGE5fYvHmI5vNcBYNo4QQmrU+AB9kAjUBVYoLrcO5HcZyo7pk4wW/o0sWjXiCgEHtq3VDbwmO6SV+Xu3XWv8TkzkZ94UWRacY3iC1nlmg==</EncryptedSection>
+Name: SomeOtherClient
+BaseConfig: ../DefaultConfig
+Format: YAML
+Configuration: |
+  ConnectionStrings:
+    DefaultConnection: the default connection string must not be wiped out
+    PrivateConnection: <EncryptedSection>4ui6WlwseIQNA1pD1xIsGU1mSRHVTmTiPW2diMUrhMKZEnGE5fYvHmI5vNcBYNo4QQmrU+AB9kAjUBVYoLrcO5HcZyo7pk4wW/o0sWjXiCgEHtq3VDbwmO6SV+Xu3XWv8TkzkZ94UWRacY3iC1nlmg==</EncryptedSection>

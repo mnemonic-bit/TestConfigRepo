@@ -1,7 +1,0 @@
-{
-    "Logging": "Warning",
-    "ConnectionStrings": {
-        "DefaultConnection": "taken from JSON config",
-        "SpecialConnection": "taken from JSON config"
-    }
-}
