@@ -1,7 +1,7 @@
 Name: DefaultConfig
 BaseConfig:
 Format: YAML
-Configuration:
+Configuration: |
   ConnectionStrings:
     DefaultConnection: default DB connection string
     SpecialConnection: default config for special DB connection string
