@@ -1,5 +1,5 @@
 Name: BaseConfig
-BaseConfig: ../DefaultConfig
+BaseConfig: ../DefaultConfig.yaml
 Format: YAML
 Configuration: |
   Global:

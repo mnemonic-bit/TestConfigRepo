@@ -1,5 +1,5 @@
 Name: ConfigurationServiceClientDemo
-BaseConfig: ../BaseConfig
+BaseConfig: BaseConfig.yaml
 Format: YAML
 Configuration: |
   ConnectionStrings:
