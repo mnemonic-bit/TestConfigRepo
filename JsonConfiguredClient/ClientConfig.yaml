@@ -1,5 +1,5 @@
 Name: JsonConfiguredClient
-BaseConfig: ../DefaultConfig.yaml
+BaseConfig: /DefaultConfig.yaml
 Format: JSON
 Configuration: |
   {
