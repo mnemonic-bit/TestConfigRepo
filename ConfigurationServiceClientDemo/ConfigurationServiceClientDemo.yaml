@@ -6,7 +6,7 @@ Configuration: |
     SpecialConnection: some other DB connection string
   CustomConfig:
     StringValue: some text here
-    IntValue: 333
+    IntValue: 999
     GuidValue: 3f241a24-e57d-46d3-89e0-1f7724883ce2
     CustomStructure:
       Text: ipse lorem
